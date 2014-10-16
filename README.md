@@ -1,7 +1,7 @@
 Swift Port of Parse Starter Project
 ===================================
 
-This the Swift version of the Parse Starter Project. For the original Parse Starter Project visit https://parse.com. 
+This is the Swift version of the Parse Starter Project. For the original Parse Starter Project visit https://parse.com. 
 
 LICENSE
 
